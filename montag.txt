@@ -2,6 +2,8 @@ Montag
 
 Rot
 Grün
+Hellgrün
+Dunkelgrün
 Blau
 Gelb
 Silber
