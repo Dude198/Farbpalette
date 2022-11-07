@@ -4,5 +4,6 @@ Rot
 Grün
 Blau
 Gelb
+Silber
 
 Sind alles tolle Farben.
